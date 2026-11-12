@@ -2,7 +2,9 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&width=1200&section=header&text=AYUSHI%20TYAGI&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&desc=Software%20Engineer%20%7C%20AI%20Architecture and Evaluation %7C%20Test%20Automation&descSize=20&descAlign=50&descAlignY=62&color=0B1020,142B4A,2563EB&stroke=2563EB&strokeWidth=1" width="100%" alt="Ayushi Tyagi — Software Engineer | AI Architecture & Evaluation | Test Automation" />
+<h2>Hey! I'm Ayushi</h2>
+<h3>This is a summary of whatever I do from 9 to 5 👩🏻‍💻<br> and then 5 to 9 🤓:</h3>
+<h4>Software Engineer | AI Architecture & Evaluation | Test Automation</h4>
 
 
 <a href="https://readme-typing-svg.demolab.com">
@@ -68,6 +70,19 @@ philosophy: "Learn → Build → Test → Improve"
 <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white" />
 <img src="https://img.shields.io/badge/LLM%20Evaluation-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/RAG%20Validation-0F766E?style=flat-square" />
+
+**TOOLS & PLATFORMS**
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Smartsheet-0073CF?style=flat-square&logo=smartsheet&logoColor=white" />
+<img src="https://img.shields.io/badge/qTest-4479A1?style=flat-square" />
+<img src="https://img.shields.io/badge/Sauce%20Labs-3DDC91?style=flat-square&logo=saucelabs&logoColor=white" />
+<img src="https://img.shields.io/badge/Appium-EE376D?style=flat-square&logo=appium&logoColor=white" />
 
 </div>
 
@@ -142,6 +157,7 @@ Small projects exploring cloud AI services, APIs, automation, and developer prod
 - LLM evaluation and prompt regression testing
 - Agentic AI architectures and tool use
 - Reliable, maintainable automation frameworks
+- Google Cloud Platform services and capabilities
 
 </details>
 
@@ -150,7 +166,9 @@ Small projects exploring cloud AI services, APIs, automation, and developer prod
 
 <br/>
 
-I like understanding why something fails, building a repeatable way to detect it, and exploring whether AI can make the process more effective.
+I'm naturally curious about how things work. I enjoy going beyond the surface, exploring the functionality behind systems, and understanding the problems they're designed to solve.
+
+I love challenging conventional approaches, experimenting with new ideas, and finding smarter ways to do things. What excites me most is connecting technology with real-world business problems and turning innovative ideas into practical solutions.
 
 My goal is to connect strong software engineering fundamentals with practical AI systems.
 
@@ -162,7 +180,6 @@ My goal is to connect strong software engineering fundamentals with practical AI
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ayusshhhii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" /> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusshhhii&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=ayusshhhii&theme=tokyonight&hide_border=true" width="70%" alt="Contribution streak" />
 
