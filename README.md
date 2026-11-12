@@ -16,8 +16,8 @@
 <a href="https://www.linkedin.com/in/ayusshhhii/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:ayushityagi22.in@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20hello-334155?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushityagi22.in@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.credly.com/users/ayushi-tyagi.f6b2f744/badges/credly">
   <img src="https://img.shields.io/badge/Certifications-Credly-0F766E?style=for-the-badge&logo=credly&logoColor=white" />
