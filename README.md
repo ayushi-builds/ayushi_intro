@@ -40,6 +40,7 @@ focus:
 currently_exploring:
   - Azure AI
   - GitHub Copilot
+  - GCP
   - LLM Evaluation
   - Agentic AI
 philosophy: "Learn → Build → Test → Improve"
