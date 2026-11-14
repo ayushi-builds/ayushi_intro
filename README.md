@@ -27,7 +27,7 @@
 
 ---
 
-## `~/about-me`
+## `About Me`
 
 ```yaml
 name: Ayushi Tyagi
@@ -46,7 +46,7 @@ currently_exploring:
 philosophy: "Learn → Build → Test → Improve"
 ```
 
-## `~/tech-stack`
+## `My Tech Stack`
 
 <div align="center">
 
@@ -87,7 +87,7 @@ philosophy: "Learn → Build → Test → Improve"
 
 </div>
 
-## `~/selected-work`
+## `Recent Innovation Projects- Professional`
 
 <table>
 <tr>
@@ -146,7 +146,7 @@ Small projects exploring cloud AI services, APIs, automation, and developer prod
 </tr>
 </table>
 
-## `~/now`
+## `Latest Activities`
 
 <details>
 <summary><b>🔬 What I'm currently learning</b></summary>
@@ -174,17 +174,7 @@ I love challenging conventional approaches, experimenting with new ideas, and fi
 My goal is to connect strong software engineering fundamentals with practical AI systems.
 
 </details>
-
-## `~/github-activity`
-
-<div align="center">
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ayusshhhii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" /> -->
-
-
-<img src="https://streak-stats.demolab.com?user=ayusshhhii&theme=tokyonight&hide_border=true" width="70%" alt="Contribution streak" />
-
-</div>
+<br>
 
 ---
 
@@ -192,6 +182,6 @@ My goal is to connect strong software engineering fundamentals with practical AI
 
 **Less hype. More experiments. Better engineering.**
 
-<sub>I'm here to build my next chapter of life</sub>
+<sub>I'm here to build the next chapter of my life</sub>
 
 </div>
